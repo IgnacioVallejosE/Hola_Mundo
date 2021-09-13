@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Hola_Mundo.iml" filepath="$PROJECT_DIR$/.idea/Hola_Mundo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Manlet/Manlet.iml" filepath="$PROJECT_DIR$/Manlet/Manlet.iml" />
     </modules>
   </component>
 </project>
